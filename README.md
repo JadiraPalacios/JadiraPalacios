@@ -1,6 +1,6 @@
 <div align="center">
   
-# 💫About Me :
+# 💫Hi There :
 
 </div>
 <!-- RAINBOW LINE TOP -->
