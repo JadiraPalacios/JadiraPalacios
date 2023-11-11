@@ -1,6 +1,7 @@
-<div align="center">
- chart_with_upwards_trend:  Hi there 👋
-  </div>
+ ## :chart_with_upwards_trend: Hi There
+</br>
+</div>
+<br />
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
