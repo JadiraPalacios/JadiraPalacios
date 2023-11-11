@@ -1,5 +1,5 @@
 <div align="center">
-### Hi there 👋
+ chart_with_upwards_trend:  Hi there 👋
   </div>
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
