@@ -23,3 +23,7 @@
 <img width="45%" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" />
 
 </p>
+ ### :zap: Actividad reciente
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update_end-->
