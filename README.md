@@ -26,5 +26,10 @@
 
  ### :zap: Actividad reciente
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#8](https://github.com//JadiraPalacios/Curso-Git-y-GitHub/pull/8) in [JadiraPalacios/Curso-Git-y-GitHub](https://github.com//JadiraPalacios/Curso-Git-y-GitHub)
+2. ❗️ Closed issue [#6](https://github.com//JadiraPalacios/Curso-Git-y-GitHub/issues/6) in [JadiraPalacios/Curso-Git-y-GitHub](https://github.com//JadiraPalacios/Curso-Git-y-GitHub)
+3. 🎉 Merged PR [#7](https://github.com//JadiraPalacios/Curso-Git-y-GitHub/pull/7) in [JadiraPalacios/Curso-Git-y-GitHub](https://github.com//JadiraPalacios/Curso-Git-y-GitHub)
+4. 💪 Opened PR [#7](https://github.com//JadiraPalacios/Curso-Git-y-GitHub/pull/7) in [JadiraPalacios/Curso-Git-y-GitHub](https://github.com//JadiraPalacios/Curso-Git-y-GitHub)
+5. ❗️ Opened issue [#6](https://github.com//JadiraPalacios/Curso-Git-y-GitHub/issues/6) in [JadiraPalacios/Curso-Git-y-GitHub](https://github.com//JadiraPalacios/Curso-Git-y-GitHub)
 <!--END_SECTION:activity-->
 
